@@ -16,10 +16,10 @@
 2. Open it in vs code using command CODE . 
 3. Enjoy those cats!
 
-## Known Bugs
+# Known Bugs
 
 * None known
 
 ## License Info
-
+ 
 [MIT License](https://opensource.org/licenses/MIT)
